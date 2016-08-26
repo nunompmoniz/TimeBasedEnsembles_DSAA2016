@@ -1,4 +1,4 @@
-#DSAA 2016
+#SOMERIS 2016
 
 #Working Directory
 setwd("") #NEEDS TO BE DEFINED
